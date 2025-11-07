@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SpotFinder">
 
-        <!-- ✅ Only keep real activities here -->
+        
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -29,7 +29,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBvc5OS559iZzdMtGxYI01NbhsirbSQ-c4"/>
+            android:value=""/>
 
 
     </application>
